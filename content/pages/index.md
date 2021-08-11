@@ -3,10 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Luke's New Webiste
-    content: >-
-      Stackbit Next.js Universal theme. It can be used as a starting point for a
-      new project or as a learning tool. This theme has stackbit.yaml and
-      vanilla CSS.
+    content: >
+      Luke is building this very cool website so he can learn how StackBit works
+      and have a very very very productive meeting with them later today. And
+      Hopefully help them build something very cool.
     actions:
       - label: Stackbit Docs
         url: 'https://www.stackbit.com/docs/'
