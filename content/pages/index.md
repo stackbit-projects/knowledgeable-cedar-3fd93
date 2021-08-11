@@ -2,12 +2,14 @@
 title: Home
 sections:
   - type: hero_section
-    title: A Stackbit Universal Theme
-    content: |-
-      Stackbit Next.js Universal theme. It can be used as a starting point for a new project or as a learning tool. This theme has stackbit.yaml and vanilla CSS.
+    title: Luke's New Webiste
+    content: >-
+      Stackbit Next.js Universal theme. It can be used as a starting point for a
+      new project or as a learning tool. This theme has stackbit.yaml and
+      vanilla CSS.
     actions:
       - label: Stackbit Docs
-        url: https://www.stackbit.com/docs/
+        url: 'https://www.stackbit.com/docs/'
         style: button
   - type: feature_section
     title: This is heading
@@ -25,9 +27,9 @@ sections:
   - type: feature_section
     title: This is heading
     content: >-
-      Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-      diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-      euismod lacinia.
+      Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+      quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+      lacinia.
     actions:
       - label: Learn More
         url: /about
